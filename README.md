@@ -45,3 +45,13 @@ In this task To interact with the DevRev API and create a work item, we utilize 
 # THE OUTPUT OF THIS TASK IS
 ![Screenshot 2024-05-16 153719](https://github.com/Manjula08102003/DevRevai/assets/107975611/6fbf2861-2138-49ef-8034-553b4325a55a)
 
+
+# Step 2 (30 points): Creating a Snap-in For Priority assignment to newly created tickets.
+
+In this task, I implemented the Priority Assignment to Newly Created Tickets using Java and Maven. The snap-in developed facilitates the automatic assignment of priorities to newly generated tickets based on their descriptions. Leveraging Java's OkHttp library and Maven's project management capabilities, the program sends HTTP requests to the DevRev API, extracting relevant information from the ticket descriptions to determine the appropriate priority level. This solution streamlines the ticket creation process, ensuring that each ticket is promptly assigned an appropriate priority, thereby enhancing the efficiency of the ticket management system
+
+# THE OUTPUT OF THIS TASK IS
+
+![Screenshot 2024-05-16 154125](https://github.com/Manjula08102003/DevRevai/assets/107975611/454ced7f-7fdd-4b12-83cd-db7ae47efa40)
+
+
