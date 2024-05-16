@@ -42,8 +42,13 @@ The Smart import KBs snap-in creates articles for your knowledge base automatica
 
 In this task To interact with the DevRev API and create a work item, we utilize Java along with Maven for streamlined project management. Leveraging Maven's dependency management, we seamlessly integrate libraries like OkHttp or Apache HttpClient for HTTP communication with the DevRev API. Our Java code constructs an HTTP request, including the necessary headers and payload, and sends it to the designated API endpoint. Through proper testing and documentation, we ensure the reliability and functionality of our Java application, simplifying the process of creating work items within the DevRev platform.
 
+
+
 # THE OUTPUT OF THIS TASK IS
-![Screenshot 2024-05-16 153719](https://github.com/Manjula08102003/DevRevai/assets/107975611/6fbf2861-2138-49ef-8034-553b4325a55a)
+![image](https://github.com/Manjula08102003/DevRevai/assets/107975611/59cdbc9b-0fff-46a6-802c-67d9d1b7da42)
+
+NOTE:THE OUTPUT IS HIGHLIGHTED IN BLUE TEXT
+
 
 
 # Step 2 (30 points): Creating a Snap-in For Priority assignment to newly created tickets.
@@ -54,4 +59,5 @@ In this task, I implemented the Priority Assignment to Newly Created Tickets usi
 
 ![Screenshot 2024-05-16 154125](https://github.com/Manjula08102003/DevRevai/assets/107975611/454ced7f-7fdd-4b12-83cd-db7ae47efa40)
 
+NOTE:THE OUTPUT IS HIGHLIGHTED IN BLUE TEXT
 
