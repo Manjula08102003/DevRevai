@@ -36,3 +36,12 @@ The Smart import KBs snap-in creates articles for your knowledge base automatica
 - Refresh this page to activate the /sync command.
 
 - Type the command /sync <URL> in the snap-in discussions tab on the right. Replace <URL> with the actual URL without the brackets.
+
+
+# Step 1 (10 points): Utilizing the DevRev API
+
+In this task To interact with the DevRev API and create a work item, we utilize Java along with Maven for streamlined project management. Leveraging Maven's dependency management, we seamlessly integrate libraries like OkHttp or Apache HttpClient for HTTP communication with the DevRev API. Our Java code constructs an HTTP request, including the necessary headers and payload, and sends it to the designated API endpoint. Through proper testing and documentation, we ensure the reliability and functionality of our Java application, simplifying the process of creating work items within the DevRev platform.
+
+# THE OUTPUT OF THIS TASK IS
+![Screenshot 2024-05-16 153719](https://github.com/Manjula08102003/DevRevai/assets/107975611/6fbf2861-2138-49ef-8034-553b4325a55a)
+
