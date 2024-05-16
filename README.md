@@ -3,10 +3,10 @@
 
 
 
-SMART IMPORT KBs SNAP-IN
+**SMART IMPORT KBs SNAP-IN**
 The Smart import KBs snap-in creates articles for your knowledge base automatically using the URLs you provide.
 
-INSTALLING THE SMART IMPORT KBs:
+**INSTALLING THE SMART IMPORT KBs:**
 
 ->Install the Smart import KBs snap-in from the DevRev marketplace.
 
@@ -15,7 +15,7 @@ INSTALLING THE SMART IMPORT KBs:
 ->Go to the Discussions tab and enter /sync <URL>.
 
 
-HOW TO USE 
+**HOW TO USE**
 
 ->Importing articles for the first time
 
