@@ -3,7 +3,7 @@
 
 
 
-SMRT IMPORT KBs
+SMART IMPORT KBs SNAP-IN
 The Smart import KBs snap-in creates articles for your knowledge base automatically using the URLs you provide.
 
 INSTALLING THE SMART IMPORT KBs:
@@ -13,3 +13,12 @@ INSTALLING THE SMART IMPORT KBs:
 ->Select the dev org to install the snap-in, confirm installation and click Deploy snap-in.
 
 ->Go to the Discussions tab and enter /sync <URL>.
+
+
+HOW TO USE 
+
+->Importing articles for the first time
+
+->Refresh this page to activate the /sync command.
+
+->Type the command /sync <URL> in the snap-in discussions tab on the right. Replace <URL> with the actual URL without the brackets.
