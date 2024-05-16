@@ -7,8 +7,9 @@ SMRT IMPORT KBs
 The Smart import KBs snap-in creates articles for your knowledge base automatically using the URLs you provide.
 
 INSTALLING THE SMART IMPORT KBs:
-Install the Smart import KBs snap-in from the DevRev marketplace.
 
-Select the dev org to install the snap-in, confirm installation and click Deploy snap-in.
+->Install the Smart import KBs snap-in from the DevRev marketplace.
 
-Go to the Discussions tab and enter /sync <URL>.
+->Select the dev org to install the snap-in, confirm installation and click Deploy snap-in.
+
+->Go to the Discussions tab and enter /sync <URL>.
