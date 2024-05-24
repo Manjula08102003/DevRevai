@@ -49,6 +49,10 @@ In this task To interact with the DevRev API and create a work item, we utilize 
 
 NOTE:THE OUTPUT IS HIGHLIGHTED IN BLUE TEXT
 
+# The work item cretaed in DeRev platform
+![Screenshot 2024-05-24 124145](https://github.com/Manjula08102003/DevRevai/assets/107975611/3ce76419-68b8-4555-b24e-d7f150a0b0ad)
+
+
 
 
 # Step 2 (30 points): Creating a Snap-in For Priority assignment to newly created tickets.
@@ -59,8 +63,17 @@ In this task, I implemented the Priority Assignment to Newly Created Tickets usi
 
 ![Screenshot 2024-05-16 154125](https://github.com/Manjula08102003/DevRevai/assets/107975611/454ced7f-7fdd-4b12-83cd-db7ae47efa40)
 
+
 NOTE:THE OUTPUT IS HIGHLIGHTED IN BLUE TEXT
 
 # Issue created in devrev platfrom
+
 ![Screenshot 2024-05-24 121244](https://github.com/Manjula08102003/DevRevai/assets/107975611/24b77778-2026-42c6-9a94-1e399185d375)
+
+
+
+#LIST OF CREATED ISSUES
+
+![Screenshot 2024-05-24 124451](https://github.com/Manjula08102003/DevRevai/assets/107975611/0af8ba33-f996-4c61-83f3-161d6c73fdd4)
+
 
