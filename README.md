@@ -61,3 +61,6 @@ In this task, I implemented the Priority Assignment to Newly Created Tickets usi
 
 NOTE:THE OUTPUT IS HIGHLIGHTED IN BLUE TEXT
 
+# Issue created in devrev platfrom
+![Screenshot 2024-05-24 121244](https://github.com/Manjula08102003/DevRevai/assets/107975611/24b77778-2026-42c6-9a94-1e399185d375)
+
